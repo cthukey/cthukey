@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique&show_icons=true" />
 </picture>
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 

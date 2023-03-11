@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨Criando bugs;<br>📕 Estudo Node Js;<br>🎯 Objetivos: Back-end;<br>❤️ Pronomes: Ele/Seu;</p>
+<p align="left">✨Criando bugs;<br><br>📕 Estudo Node Js;<br><br>🎯 Objetivos: Back-end;<br><br>❤️ Pronomes: Ele/Seu;</p>
 
 ###
 

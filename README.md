@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Olá Mundo! 🌎<br>Olá! Me chamo Pedro Henrique, Estudante de Desenvolvimento Back-end e apaixonado por tecnologia desde pequeno, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.</p>
+<p align="left">Olá Mundo! 🌎<br>Olá! Me chamo Pedro Henrique, Estudante de Desenvolvimento Back-end e apaixonado por tecnologia, Sou aventureiro no universo da programação, e criando bugs com aprendizado kkk</p>
 
 ###
 
